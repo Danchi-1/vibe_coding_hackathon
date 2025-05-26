@@ -1,8 +1,8 @@
 # The link to the finished product
 
----
-``` https://preview--sparkle-store-tracker.lovable.app/
----
+```link
+https://preview--sparkle-store-tracker.lovable.app/
+
 ```
 ## The prompt to get the final product
 
