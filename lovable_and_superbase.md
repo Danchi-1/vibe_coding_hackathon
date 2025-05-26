@@ -1,9 +1,9 @@
 # The link to the finished product
 
-```link
+---
 https://preview--sparkle-store-tracker.lovable.app/
+---
 
-```
 ## The prompt to get the final product
 
 ### Input
@@ -232,13 +232,10 @@ What's next?
 Your project leverages Val Town serverless functions. If you need to persist data or add user accounts, consider using Supabase.
 
 ---
-
-### Preview link
-
----
-[https://lovable.dev/projects/77e77730-9314-43d3-8e33-b65b834a3c6e](https://id-preview-8cf48aac--77e77730-9314-43d3-8e33-b65b834a3c6e.lovable.app/?forceHideBadge=true)
+https://id-preview-3aea994f--77e77730-9314-43d3-8e33-b65b834a3c6e.lovable.app/?forceHideBadge=true
 ---
 
+---
 
 ### Input
 
@@ -448,10 +445,6 @@ Important Notes:
     I recommend disabling email confirmation in your Supabase settings for faster testing
 
 You can now visit /auth to sign up or sign in, and all your transaction data will be properly stored and retrieved from the database!
-
----
-https://id-preview--77e77730-9314-43d3-8e33-b65b834a3c6e.lovable.app/
----
 
 ### Input
 
